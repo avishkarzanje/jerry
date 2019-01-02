@@ -1,0 +1,21 @@
+{
+  "name": "jerry",
+  "version": "1.0.0",
+  "description": "coding test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Avishkar Vijay Zanje",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
+
+
